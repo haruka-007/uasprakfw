@@ -44,35 +44,3 @@ CREATE DATABASE crud;
 GRANT ALL PRIVILEGES ON crud.* TO 'crud'@'localhost';
 FLUSH PRIVILEGES;
 ```
-
-## Yang bawah ini dihiraukan saja yaa...
-
-## Show Grants
-
-```sql
-SHOW GRANTS FOR 'someuser'@'localhost';
-```
-
-## Remove Grants
-
-```sql
-REVOKE ALL PRIVILEGES, GRANT OPTION FROM 'someuser'@'localhost';
-```
-
-## Delete User
-
-```sql
-DROP USER 'someuser'@'localhost';
-```
-
-## Exit
-
-```sql
-exit;
-```
-
-## Show Databases
-
-```sql
-SHOW DATABASES
-```
