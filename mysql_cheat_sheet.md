@@ -7,7 +7,7 @@
 ## MySQL Locations
 * Xampp           *C:/xampp/mysql/bin*
 
-Copy path mysql.. klik link dibawah untuk lihat caranya
+Copy path mysql kalian..  lalu klik link dibawah untuk lihat caranya
 
 ## Add mysql to your PATH
 
